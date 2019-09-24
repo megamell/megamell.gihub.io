@@ -1,0 +1,69 @@
+    body {
+      background: #9BBCCE;
+      background: -moz-linear-gradient(top, #9BBCCE 0%, #1E8991 51%, #3BC5C0 100%);
+      background: -webkit-linear-gradient(top, #9BBCCE 0%, #1E8991 51%, #3BC5C0 100%);
+      background: linear-gradient(to bottom, #9BBCCE 0%, #1E8991 51%, #3BC5C0 100%);
+    }
+
+
+    h2{
+      text-align: center;
+      color: brown;
+      font-family: Georgia;
+    }
+
+    p{
+      text-align: justify;
+      color: black;
+      font-family: Impact, sans-serif;
+      font-size: 19px;
+      float: center;
+    }
+
+  .header {
+    color: maroon;
+    background: #FFFFFF;
+    text-shadow: 0 1px #808d93, -1px 0 #cdd2d5, -1px 2px #808d93, -2px 1px #cdd2d5, -2px 3px #808d93, -3px 2px #cdd2d5, -3px 4px #808d93, -4px 3px #cdd2d5, -4px 5px #808d93, -5px 4px #cdd2d5, -5px 6px #808d93, -6px 5px #cdd2d5, -6px 7px #808d93, -7px 6px #cdd2d5, -7px 8px #808d93, -8px 7px #cdd2d5;
+    color: #202c2d;
+    background: #b7d3ff;
+    text-align: center;
+    font-size: 50px;
+    background: transparent none no-repeat scroll 0 0;
+  }
+
+  li a {
+    display: block;
+    color: Maroon;
+    padding: 8px 20px;
+    text-decoration: none;
+    float: left;
+  }
+
+    #table {
+      margin-left: 5%;
+      text-align: justify;
+      color: black;
+      font-family: Impact, sans-serif;
+      font-size: 19px;
+      float: center;
+
+    }
+    #index {
+      text-align: center;
+      float: center;
+    }
+
+
+  li a:hover {
+    background-color: #0064aa;
+    color: maroon;
+    border: dotted;
+  }
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: yellow;
+}
